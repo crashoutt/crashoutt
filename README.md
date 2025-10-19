@@ -10,10 +10,10 @@ Thank you for visiting my GitHub profile. I'm a solo developer with experience i
 ## About Me
 
 - **Experience:** 2 years in software development across multiple stacks  
-- **Focus Areas:** Backend Architecture, REST APIs, Frontend Interfaces, and Deployment  
-- **Approach:** Maintainability | Scalability | Performance  
+- **Focus Areas:** Designing efficient backend systems, developing reliable RESTful APIs, creating responsive frontend interfaces, and handling smooth application deployment  
+- **Approach:** Writing clean, maintainable code that scales well and performs efficiently under real world conditions   
 - **Currently:** Working independently on client commissions and personal tools  
-- **Passionate about:** Clean code, problem solving, and shipping practical solutions  
+- **Passionate about:** Clean code, problem solving, and shipping practical solutions, building new things 
 
 ---
 
@@ -101,7 +101,7 @@ A fully built bio link web application, similar to guns.lol, designed to showcas
 
 ## Personal Note
 
-Outside of development, I’m into design, learning new technologies, and building tools that people actually use.  
-Currently exploring **serverless frameworks** and advanced **TypeScript patterns** to level up my backend workflows.
+Beyond development, I’m passionate about design, exploring new technologies, and creating tools that make a real impact.  
+Right now, I’m focused on mastering **serverless frameworks** and diving deeper into advanced **TypeScript patterns** to enhance my backend skills.
 
-Thanks again for visiting — feel free to reach out if you’d like to collaborate or commission something.
+Thanks for visiting my profile — feel free to reach out if you'd like to collaborate or commission a project.
