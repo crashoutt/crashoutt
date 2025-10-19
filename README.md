@@ -20,7 +20,7 @@ Thank you for visiting my GitHub profile. I'm a solo developer with experience i
 ## Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,python,docker,postgres,mongodb,git" alt="skills icons" />
+  <img src="https://skillicons.dev/icons?i=html,js,python,nodejs,react,tailwind,express,postgres" alt="Skills Icons" />
 </p>
 
 ---
