@@ -1,4 +1,4 @@
-# Welcome — I go by **crashout/flee**
+# Welcome — My name is **crashout**
 
 **Frontend / Backend Developer**  
 Focused on building robust, efficient, and scalable digital solutions.
