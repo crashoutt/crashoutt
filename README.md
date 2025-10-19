@@ -58,19 +58,15 @@ I work with a modern, versatile tech stack covering frontend, backend, and datab
   </tr>
 </table>
 
-
-
-
-
 ---
 
 ## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=flee&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=flee&theme=radical" alt="GitHub Streak" />
-  <br>
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flee&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -94,13 +90,12 @@ Another project that shows full-stack skills and use of modern technologies.
 ## Contact
 
 <p align="center">
-  <a href="https://discord.com/users/1273846808354754595">
+  <a href="https://discord.com/users/1273846808354754595" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
 > 📬 **Discord:** DM me directly — [flee](https://discord.com/users/1273846808354754595)
-
 
 ---
 
