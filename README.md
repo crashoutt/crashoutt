@@ -70,22 +70,6 @@ I work with a modern, versatile tech stack covering frontend, backend, and datab
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flee&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-## Selected Projects
-
-### [Project One](https://github.com/flee/ProjectOne)  
-A well‑structured description of what this project accomplishes and the technology stack used.
-
-### [Project Two](https://github.com/flee/ProjectTwo)  
-A custom-built solution demonstrating backend logic and frontend integration.
-
-### [Project Three](https://github.com/flee/ProjectThree)  
-Another project that shows full-stack skills and use of modern technologies.
-
-> Want to see more? Browse the pinned repositories above or scroll through recent activity.
-
----
 
 ## Contact
 
