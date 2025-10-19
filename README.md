@@ -45,7 +45,7 @@ I work with a modern, versatile tech stack covering frontend, backend, and datab
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" style="vertical-align: middle;" /><br />
-      Tailwind CSS
+      Tailwind
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express" style="vertical-align: middle;" /><br />
