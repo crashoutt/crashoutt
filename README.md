@@ -21,49 +21,50 @@ Thank you for visiting my GitHub profile. I'm a solo developer with experience i
 
 I work with a modern, versatile tech stack covering frontend, backend, and database development:
 
-<div align="center" style="display: flex; gap: 2rem; flex-wrap: wrap; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
 
-  <div align="center" style="min-width: 80px;">
+  <div align="center" style="width: 80px; margin-bottom: 1rem;">
     <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" />
-    <p>HTML</p>
+    <p style="margin: 0; font-size: 0.9rem;">HTML</p>
   </div>
 
-  <div align="center" style="min-width: 80px;">
+  <div align="center" style="width: 80px; margin-bottom: 1rem;">
     <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" />
-    <p>JavaScript</p>
+    <p style="margin: 0; font-size: 0.9rem;">JavaScript</p>
   </div>
 
-  <div align="center" style="min-width: 80px;">
+  <div align="center" style="width: 80px; margin-bottom: 1rem;">
     <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" />
-    <p>Python</p>
+    <p style="margin: 0; font-size: 0.9rem;">Python</p>
   </div>
 
-  <div align="center" style="min-width: 80px;">
+  <div align="center" style="width: 80px; margin-bottom: 1rem;">
     <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" />
-    <p>Node.js</p>
+    <p style="margin: 0; font-size: 0.9rem;">Node.js</p>
   </div>
 
-  <div align="center" style="min-width: 80px;">
+  <div align="center" style="width: 80px; margin-bottom: 1rem;">
     <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" />
-    <p>React</p>
+    <p style="margin: 0; font-size: 0.9rem;">React</p>
   </div>
 
-  <div align="center" style="min-width: 80px;">
+  <div align="center" style="width: 80px; margin-bottom: 1rem;">
     <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" />
-    <p>Tailwind CSS</p>
+    <p style="margin: 0; font-size: 0.9rem;">Tailwind CSS</p>
   </div>
 
-  <div align="center" style="min-width: 80px;">
+  <div align="center" style="width: 80px; margin-bottom: 1rem;">
     <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express" />
-    <p>Express</p>
+    <p style="margin: 0; font-size: 0.9rem;">Express</p>
   </div>
 
-  <div align="center" style="min-width: 80px;">
+  <div align="center" style="width: 80px; margin-bottom: 1rem;">
     <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" />
-    <p>PostgreSQL</p>
+    <p style="margin: 0; font-size: 0.9rem;">PostgreSQL</p>
   </div>
 
 </div>
+
 
 
 
