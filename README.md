@@ -19,11 +19,13 @@ Thank you for visiting my GitHub profile. I'm a solo developer with experience i
 
 ## Skills & Technologies
 
-I primarily work with a modern tech stack that spans frontend, backend, and database development:
+I work with a modern, versatile tech stack covering frontend, backend, and database development:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,python,nodejs,react,tailwind,express,postgres" alt="Skills Icons" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,js,python,nodejs,react,tailwind,express,postgres" alt="Skills Icons" />
+
+</div>
 
 
 ---
