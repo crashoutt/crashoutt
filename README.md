@@ -70,6 +70,16 @@ I work with a modern, versatile tech stack covering frontend, backend, and datab
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flee&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+## Projects
+
+Here are some projects I've fully developed from start to finish, showcasing my skills and experience:
+
+### [Flexings.lol](https://flexings.lol/)  
+A fully built bio link web application, similar to guns.lol, designed to showcase social profiles and important links in a clean, user-friendly interface/.  
+
+> Want to see more? Feel free to get in touch.
+
+---
 
 ## Contact
 
