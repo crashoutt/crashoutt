@@ -21,11 +21,50 @@ Thank you for visiting my GitHub profile. I'm a solo developer with experience i
 
 I work with a modern, versatile tech stack covering frontend, backend, and database development:
 
-<div align="center">
+<div align="center" style="display: flex; gap: 2rem; flex-wrap: wrap; justify-content: center;">
 
-<img src="https://skillicons.dev/icons?i=html,js,python,nodejs,react,tailwind,express,postgres" alt="Skills Icons" />
+  <div align="center" style="min-width: 80px;">
+    <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" />
+    <p>HTML</p>
+  </div>
+
+  <div align="center" style="min-width: 80px;">
+    <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" />
+    <p>JavaScript</p>
+  </div>
+
+  <div align="center" style="min-width: 80px;">
+    <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" />
+    <p>Python</p>
+  </div>
+
+  <div align="center" style="min-width: 80px;">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" />
+    <p>Node.js</p>
+  </div>
+
+  <div align="center" style="min-width: 80px;">
+    <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" />
+    <p>React</p>
+  </div>
+
+  <div align="center" style="min-width: 80px;">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" />
+    <p>Tailwind CSS</p>
+  </div>
+
+  <div align="center" style="min-width: 80px;">
+    <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express" />
+    <p>Express</p>
+  </div>
+
+  <div align="center" style="min-width: 80px;">
+    <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" />
+    <p>PostgreSQL</p>
+  </div>
 
 </div>
+
 
 
 ---
