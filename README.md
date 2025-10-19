@@ -21,49 +21,46 @@ Thank you for visiting my GitHub profile. I'm a solo developer with experience i
 
 I work with a modern, versatile tech stack covering frontend, backend, and database development:
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
-
-  <div align="center" style="width: 80px; margin-bottom: 1rem;">
-    <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" />
-    <p style="margin: 0; font-size: 0.9rem;">HTML</p>
-  </div>
-
-  <div align="center" style="width: 80px; margin-bottom: 1rem;">
-    <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" />
-    <p style="margin: 0; font-size: 0.9rem;">JavaScript</p>
-  </div>
-
-  <div align="center" style="width: 80px; margin-bottom: 1rem;">
-    <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" />
-    <p style="margin: 0; font-size: 0.9rem;">Python</p>
-  </div>
-
-  <div align="center" style="width: 80px; margin-bottom: 1rem;">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" />
-    <p style="margin: 0; font-size: 0.9rem;">Node.js</p>
-  </div>
-
-  <div align="center" style="width: 80px; margin-bottom: 1rem;">
-    <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" />
-    <p style="margin: 0; font-size: 0.9rem;">React</p>
-  </div>
-
-  <div align="center" style="width: 80px; margin-bottom: 1rem;">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" />
-    <p style="margin: 0; font-size: 0.9rem;">Tailwind CSS</p>
-  </div>
-
-  <div align="center" style="width: 80px; margin-bottom: 1rem;">
-    <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express" />
-    <p style="margin: 0; font-size: 0.9rem;">Express</p>
-  </div>
-
-  <div align="center" style="width: 80px; margin-bottom: 1rem;">
-    <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" />
-    <p style="margin: 0; font-size: 0.9rem;">PostgreSQL</p>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" /><br />
+      HTML
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /><br />
+      JavaScript
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" /><br />
+      Python
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" /><br />
+      Node.js
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" /><br />
+      React
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" /><br />
+      Tailwind CSS
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express" /><br />
+      Express
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" /><br />
+      PostgreSQL
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 
 
