@@ -24,39 +24,40 @@ I work with a modern, versatile tech stack covering frontend, backend, and datab
 <table>
   <tr>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" /><br />
+      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" style="vertical-align: middle;" /><br />
       HTML
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /><br />
+      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" style="vertical-align: middle;" /><br />
       JavaScript
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" /><br />
+      <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" style="vertical-align: middle;" /><br />
       Python
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" /><br />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" style="vertical-align: middle;" /><br />
       Node.js
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" /><br />
+      <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" style="vertical-align: middle;" /><br />
       React
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" /><br />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" style="vertical-align: middle;" /><br />
       Tailwind CSS
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express" /><br />
+      <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express" style="vertical-align: middle;" /><br />
       Express
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" /><br />
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" style="vertical-align: middle;" /><br />
       PostgreSQL
     </td>
   </tr>
 </table>
+
 
 ---
 
