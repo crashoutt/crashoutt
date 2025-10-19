@@ -43,8 +43,6 @@ I work with a modern, versatile tech stack covering frontend, backend, and datab
       <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" /><br />
       React
     </td>
-  </tr>
-  <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" /><br />
       Tailwind CSS
@@ -57,10 +55,9 @@ I work with a modern, versatile tech stack covering frontend, backend, and datab
       <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" /><br />
       PostgreSQL
     </td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
+
 
 
 
